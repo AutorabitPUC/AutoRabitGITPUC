@@ -1,5 +1,3 @@
-// Testing autorabit versioing Control
-
 public with sharing class GEESWaterFallChart {
  
     public String strViewBy { get; set; }
